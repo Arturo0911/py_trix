@@ -64,7 +64,7 @@ for j in range(0, numero_matriz):
     
 
     lista_ordenada = sorted(lista_agregar_columnas)
-    elemento_mayor = lista_ordenada[numero_matriz-1]
+    elemento_mayor = lista_ordenada[numero_matriz-1] 
     indice_para_mover_matriz = lista_agregar_columnas.index(elemento_mayor)
     #print("elemento_mayor",elemento_mayor)
     #print("asi queda la matriz::::: ",j, matriz_1)
