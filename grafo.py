@@ -29,7 +29,7 @@ while(True):
 matriz = [] # aqui declarams nuestra matriz
 
 # Mediante esta lista vamos a agregar las conexiones que tienen por nodos
-lista_nodos = list()
+lista_nodos = list() 
 
 
 
